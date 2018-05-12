@@ -1,0 +1,10 @@
+C:\Users\QuadCore\documents\visual studio 2013\Projects\ChahBot 1.0 Gacy\ChahBot 1.0 Gacy\bin\Debug\ChahBot 1.0 Gacy.exe.config
+C:\Users\QuadCore\documents\visual studio 2013\Projects\ChahBot 1.0 Gacy\ChahBot 1.0 Gacy\obj\Debug\ChahBot 1_0 Gacy.csprojResolveAssemblyReference.cache
+C:\Users\QuadCore\documents\visual studio 2013\Projects\ChahBot 1.0 Gacy\ChahBot 1.0 Gacy\bin\Debug\ChahBot 1.0 Gacy.exe
+C:\Users\QuadCore\documents\visual studio 2013\Projects\ChahBot 1.0 Gacy\ChahBot 1.0 Gacy\bin\Debug\ChahBot 1.0 Gacy.pdb
+C:\Users\QuadCore\documents\visual studio 2013\Projects\ChahBot 1.0 Gacy\ChahBot 1.0 Gacy\obj\Debug\ChahBot 1.0 Gacy.exe
+C:\Users\QuadCore\documents\visual studio 2013\Projects\ChahBot 1.0 Gacy\ChahBot 1.0 Gacy\obj\Debug\ChahBot 1.0 Gacy.pdb
+C:\Users\QuadCore\documents\visual studio 2013\Projects\ChahBot 1.0 Gacy\ChahBot 1.0 Gacy\bin\Debug\MySql.Data.dll
+C:\Users\QuadCore\documents\visual studio 2013\Projects\ChahBot 1.0 Gacy\ChahBot 1.0 Gacy\bin\Debug\HtmlAgilityPack.dll
+C:\Users\QuadCore\documents\visual studio 2013\Projects\ChahBot 1.0 Gacy\ChahBot 1.0 Gacy\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\QuadCore\documents\visual studio 2013\Projects\ChahBot 1.0 Gacy\ChahBot 1.0 Gacy\bin\Debug\HtmlAgilityPack.xml

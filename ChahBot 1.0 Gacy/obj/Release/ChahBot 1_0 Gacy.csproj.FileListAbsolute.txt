@@ -1,0 +1,5 @@
+C:\Users\QuadCore\Documents\Visual Studio 2013\Projects\ChahBot 1.0 Gacy\ChahBot 1.0 Gacy\bin\Release\ChahBot 1.0 Gacy.exe.config
+C:\Users\QuadCore\Documents\Visual Studio 2013\Projects\ChahBot 1.0 Gacy\ChahBot 1.0 Gacy\bin\Release\ChahBot 1.0 Gacy.exe
+C:\Users\QuadCore\Documents\Visual Studio 2013\Projects\ChahBot 1.0 Gacy\ChahBot 1.0 Gacy\bin\Release\ChahBot 1.0 Gacy.pdb
+C:\Users\QuadCore\Documents\Visual Studio 2013\Projects\ChahBot 1.0 Gacy\ChahBot 1.0 Gacy\obj\Release\ChahBot 1.0 Gacy.exe
+C:\Users\QuadCore\Documents\Visual Studio 2013\Projects\ChahBot 1.0 Gacy\ChahBot 1.0 Gacy\obj\Release\ChahBot 1.0 Gacy.pdb
